@@ -5,8 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Program overview"
-      href: program.html
+    - text: "Program"
+      menu:
+      - text: "Program"
+        href: program.html
+      - text: "Extended program"
+        href: ADMTP_Basel2023_Booklet.pdf   
     - text: "Invited sessions"
       href: invited.html
     - text: "Workshop booklet"
