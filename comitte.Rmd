@@ -1,0 +1,62 @@
+---
+title: "Comittes"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<!-- # Conference Organizers -->
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style> 
+
+## Local Organizing Committee (LOC)
+
+- Dr. John Smith
+- Dr. Emily Johnson
+- Dr. Michael Lee
+- Dr. Sarah Thompson
+- Dr. David Brown
+
+## International Program Committee (IPC)
+
+- Dr. Lisa Davis
+- Dr. Mark Wilson
+- Dr. Laura Miller
+- Dr. Andrew Clark
+- Dr. Jessica Robinson
+
+## Scientific Program Committee
+
+- Dr. Brian Taylor
+- Dr. Karen Anderson
+- Dr. Amy White
+- Dr. Peter Wilson
+- Dr. Michelle Carter
+
+## Welcome Letter
+
+![Dr. John Smith](user_default.png) | ![Dr. Emily Johnson](user_default.png)
+:---: | :---:
+Dr. John Smith | Dr. Emily Johnson
+
+Dear participants,
+
+We are delighted to welcome you to the "Adaptive Designs and Multiple Testing Procedures Workshop"! On behalf of the organizing committee, we extend our warmest greetings and gratitude for your participation in this esteemed event.
+
+As the main organizers, we are honored to bring together leading experts in the field of adaptive designs and multiple testing procedures to share their knowledge and insights. This workshop aims to foster meaningful discussions, exchange innovative ideas, and advance the understanding of statistical methodologies in clinical trials.
+
+We would like to express our sincere appreciation to the Local Organizing Committee, the International Program Committee, and the Scientific Program Committee for their dedication and hard work in shaping the conference program and ensuring its success.
+
+We hope that you find the workshop intellectually stimulating and an excellent opportunity for networking and collaboration. We encourage you to actively engage in the sessions, ask questions, and contribute to the vibrant scientific community.
+
+Once again, we extend our warmest welcome and wish you a fruitful and memorable workshop experience.
+
+Best regards,
+
+Dr. John Smith
+
+Dr. Marta Bofill Roig

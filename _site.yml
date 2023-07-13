@@ -5,9 +5,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Welcome"
+      menu:
+      - text: "Comittes"
+        href: comitte.html
+      - text: "Statement on Proper Conduct"
+        href: proper_conduct.html 
     - text: "Program"
       menu:
-      - text: "Program"
+      - text: "Schedule at glance"
         href: program.html
       - text: "Extended program"
         href: ADMTP_Basel2023_Booklet.pdf   
@@ -15,6 +21,14 @@ navbar:
       href: invited.html
     - text: "Workshop booklet"
       href: ADMTP_Basel2023_Booklet.pdf
+    - text: "Conference information"
+      menu:
+      - text: "Conference deadlines"
+        href: coming_soon.html
+      - text: "Hotel information"
+        href: coming_soon.html
+      - text: "Registration"
+        href: coming_soon.html          
     - text: "Presentations"
       href: presentations.html
 output:

@@ -24,7 +24,7 @@ h1.title {
 objpath <- file.path(getwd(),"slickr_files/figure-html")
 slickR::slickR(
     list.files(objpath,full.names = TRUE,pattern = 'png'),
-    height = 320,
+    height = 350,
     width = '95%')
 ```
 
