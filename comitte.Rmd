@@ -18,7 +18,7 @@ h1.title {
 ## Local Organizing Committee (LOC)
 
 - Dr. John Smith
-- Dr. Emily Johnson
+- Dr. Marta Bofill
 - Dr. Michael Lee
 - Dr. Sarah Thompson
 - Dr. David Brown
@@ -43,9 +43,9 @@ h1.title {
 
 <hr>
 
-![Dr. John Smith](images/user_default.png) | ![Dr. Emily Johnson](images/user_default.png)
+![Dr. John Smith](images/user_default.png) | ![Dr. Marta Bofill](images/marta_bofill.jpeg)
 :---: | :---:
-Dr. John Smith | Dr. Emily Johnson
+Dr. John Smith | Dr. Marta Bofill
 
 Dear participants,
 

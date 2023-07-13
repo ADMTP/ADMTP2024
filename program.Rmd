@@ -15,95 +15,102 @@ h1.title {
   
 <!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->
   
-## Day 1: April 25, 2024
-  
-### Morning Session 1 (9:00 AM - 10:30 AM)
+## **Day 1: April 25, 2024**
 
-- **Chair:** Dr. John Smith
-- **Speakers:**
-  - Speaker 1: Dr. Emily Johnson - *Adaptive Designs in Clinical Trials*
-  - Speaker 2: Dr. Michael Lee - *Group Sequential Designs*
-  - Speaker 3: Dr. Sarah Thompson - *Adaptive Dose-Finding Designs*
-  - Speaker 4: Dr. David Brown - *Interim Analysis and Sample Size Re-estimation*
-  
-### Coffee Break (10:30 AM - 11:00 AM)
-  
-### Morning Session 2 (11:00 AM - 12:30 PM)
+<hr>
 
-- **Chair:** Dr. Lisa Davis
-- **Speakers:**
-  - Speaker 1: Dr. Mark Wilson - *Multiple Testing Procedures*
-  - Speaker 2: Dr. Laura Miller - *False Discovery Rate Control*
-  - Speaker 3: Dr. Andrew Clark - *Adaptive Designs for Precision Medicine*
-  - Speaker 4: Dr. Jessica Robinson - *Sequential Monitoring of Clinical Trials*
-  
-### Lunch Break (12:30 PM - 2:00 PM)
-  
-### Afternoon Session 1 (2:00 PM - 3:30 PM)
+#### Registration (9:00 AM - 9:30 AM)
 
-- **Chair:** Dr. Brian Taylor
-- **Speakers:**
-  - Speaker 1: Dr. Amy White - *Bayesian Adaptive Designs*
-  - Speaker 2: Dr. Peter Wilson - *Designing Adaptive Seamless Trials*
-  - Speaker 3: Dr. Michelle Carter - *Adaptive Sample Size Allocation*
-  - Speaker 4: Dr. Daniel Green - *Adaptive Designs in Early Phase Trials*
-  
-### Coffee Break (3:30 PM - 4:00 PM)
-  
-### Afternoon Session 2 (4:00 PM - 5:30 PM)
+#### Welcome (9:30 AM - 9:45 AM)
 
-- **Chair:** Dr. Karen Anderson
-- **Speakers:**
-  - Speaker 1: Dr. Steven Johnson - *Adaptive Designs in Medical Device Trials*
-  - Speaker 2: Dr. Rachel Thompson - *Adaptive Designs in Oncology Trials*
-  - Speaker 3: Dr. Matthew Brown - *Adaptive Designs for Rare Diseases*
-  - Speaker 4: Dr. Emma Davis - *Challenges in Implementing Adaptive Designs*
+  - Emily Johnson (Chair of local organizing committee)
+  - Michael Lee - (Chair of IBS-DR and ROeS ADMTP working group)
+  - Sarah Thompson - (Basel Biometric Society)
+
+#### Invited Session 1 (9:45 AM - 11:00 AM)
+
+- **Chair**: John Smith
+
+  - **Dr. Emily Johnson** - *Adaptive platform trials: How and when?*
+
   
-### Gala Dinner (7:00 PM onwards)
+#### Coffee Break (11:00 AM - 11:30 AM)
+  
+#### Morning Session 1 (11:30 AM - 1:00 PM)
+
+- **Chair:** Lisa Davis
+- **Speakers:**
+  - Mark Wilson - *Multiple Testing Procedures*
+  - Laura Miller - *False Discovery Rate Control*
+  - Andrew Clark - *Adaptive Designs for Precision Medicine*
+  - Jessica Robinson - *Sequential Monitoring of Clinical Trials*
+  
+#### Lunch Break (1:00 PM - 2:30 PM)
+  
+#### Afternoon Session 1 (2:30 PM - 4:00 PM)
+
+- **Chair:** Brian Taylor
+- **Speakers:**
+  - Amy White - *Bayesian Adaptive Designs*
+  - Peter Wilson - *Designing Adaptive Seamless Trials*
+  - Michelle Carter - *Adaptive Sample Size Allocation*
+  - Daniel Green - *Adaptive Designs in Early Phase Trials*
+  
+#### Coffee Break (4:00 PM - 4:30 PM)
+  
+#### Afternoon Session 2 (4:30 PM - 5:30 PM)
+
+- **Chair:** Karen Anderson
+- **Speakers:**
+  - Rosa Lamarca - *Adaptive Designs for Rare Diseases*
+  - Emma Davis - *Challenges in Implementing Adaptive Designs*
+  
+#### Gala Dinner (7:00 PM onwards)
 
 - Join us for a gala dinner at a local venue to celebrate the first day of the workshop.
 
-## Day 2: April 26, 2024
+</br>
+</br>
 
-### Morning Session 1 (9:00 AM - 10:30 AM)
+## **Day 2: April 26, 2024**
 
-- **Chair:** Dr. John Smith
+<hr>
+
+#### Invited session 2 (10:00 AM - 11:00 AM)
+
+- **Chair**: John Smith
+
+  - **Sarah Thompson** - *Adaptive Dose-Finding Designs*
+
+#### Coffee Break (11:00 AM - 11:30 AM)
+  
+#### Morning Session 2 (11:30 AM - 1:00 PM)
+
+- **Chair:** Lisa Davis
 - **Speakers:**
-  - Speaker 1: Dr. Emily Johnson - *Adaptive Designs in Clinical Trials*
-  - Speaker 2: Dr. Michael Lee - *Group Sequential Designs*
-  - Speaker 3: Dr. Sarah Thompson - *Adaptive Dose-Finding Designs*
-  - Speaker 4: Dr. David Brown - *Interim Analysis and Sample Size Re-estimation*
+  - Mark Wilson - *Multiple Testing Procedures*
+  - Laura Miller - *False Discovery Rate Control*
+  - Andrew Clark - *Adaptive Designs for Precision Medicine*
+  - Jessica Robinson - *Sequential Monitoring of Clinical Trials*
   
-### Coffee Break (10:30 AM - 11:00 AM)
+#### Lunch Break (1:00 PM - 2:30 PM)
   
-### Morning Session 2 (11:00 AM - 12:30 PM)
+#### Afternoon Session 3 (2:30 PM - 4:00 PM)
 
-- **Chair:** Dr. Lisa Davis
+- **Chair:** Brian Taylor
 - **Speakers:**
-  - Speaker 1: Dr. Mark Wilson - *Multiple Testing Procedures*
-  - Speaker 2: Dr. Laura Miller - *False Discovery Rate Control*
-  - Speaker 3: Dr. Andrew Clark - *Adaptive Designs for Precision Medicine*
-  - Speaker 4: Dr. Jessica Robinson - *Sequential Monitoring of Clinical Trials*
+  - Amy White - *Bayesian Adaptive Designs*
+  - Peter Wilson - *Designing Adaptive Seamless Trials*
+  - Michelle Carter - *Adaptive Sample Size Allocation*
+  - Daniel Green - *Adaptive Designs in Early Phase Trials*
   
-### Lunch Break (12:30 PM - 2:00 PM)
+#### Coffee Break (4:00 PM - 4:30 PM)
   
-### Afternoon Session 1 (2:00 PM - 3:30 PM)
+#### Afternoon Session 2 (4:30 PM - 5:30 PM)
 
-- **Chair:** Dr. Brian Taylor
+- **Chair:** Karen Anderson
 - **Speakers:**
-  - Speaker 1: Dr. Amy White - *Bayesian Adaptive Designs*
-  - Speaker 2: Dr. Peter Wilson - *Designing Adaptive Seamless Trials*
-  - Speaker 3: Dr. Michelle Carter - *Adaptive Sample Size Allocation*
-  - Speaker 4: Dr. Daniel Green - *Adaptive Designs in Early Phase Trials*
-  
-### Coffee Break (3:30 PM - 4:00 PM)
-  
-### Afternoon Session 2 (4:00 PM - 5:30 PM)
+  - Steven Johnson - *Adaptive Designs in Medical Device Trials*
+  - Rachel Thompson - *Adaptive Designs in Oncology Trials*
 
-- **Chair:** Dr. Karen Anderson
-- **Speakers:**
-  - Speaker 1: Dr. Steven Johnson - *Adaptive Designs in Medical Device Trials*
-  - Speaker 2: Dr. Rachel Thompson - *Adaptive Designs in Oncology Trials*
-  - Speaker 3: Dr. Matthew Brown - *Adaptive Designs for Rare Diseases*
-  - Speaker 4: Dr. Emma Davis - *Challenges in Implementing Adaptive Designs*
   

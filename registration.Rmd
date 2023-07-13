@@ -22,7 +22,7 @@ h1.title {
 
 ## Registration Process
 
-Registration for the conference is now open! To register, please fill out the [Registration Form](https://your-registration-website.com) before the deadline. Registration is free of charge, but a deposit of 50 € will be required before the conference.
+Registration for the conference is now open! To register, please fill out the [Registration Form](https://forms.gle/EcL2P85DJ3qDAdNz8) before the deadline. Registration is free of charge, but a deposit of 50 € will be required before the conference.
 
 ## Deposit Information
 

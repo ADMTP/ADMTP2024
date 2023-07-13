@@ -21,7 +21,7 @@ navbar:
       href: invited.html
     - text: "Workshop booklet"
       href: ADMTP_Basel2023_Booklet.pdf
-    - text: "Conference information"
+    - text: "Conference info"
       menu:
       - text: "Conference deadlines"
         href: dates.html 

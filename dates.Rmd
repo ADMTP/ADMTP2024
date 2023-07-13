@@ -18,8 +18,7 @@ h1.title {
 - **Registration Opens:** January 1, 2024
 - **Abstract Submission Deadline:** March 1, 2024
 - **Notification of Abstract Acceptance:** March 15, 2024
-- **Early Bird Registration Deadline:** March 31, 2024
-- **Regular Registration Deadline:** April 15, 2024
+- **Registration Deadline:** April 15, 2024
 - **Conference Dates:** April 25-26, 2024
 
 ## Registration

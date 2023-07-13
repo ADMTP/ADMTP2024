@@ -17,7 +17,13 @@ h1.title {
 
 <!-- ## Invited Speakers -->
 
-### Dr. Emily Johnson
+<br><br>
+
+
+
+### **Dr. Emily Johnson**
+
+<hr>
 
 ![](images/user_default.png)
 
@@ -25,7 +31,9 @@ Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs 
 
 **Title of Talk:** Adaptive Designs in Clinical Trials
 
-### Dr. Michael Lee
+### **Dr. Michael Lee**
+
+<hr>
 
 ![](images/user_default.png)
 
