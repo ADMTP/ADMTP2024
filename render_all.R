@@ -1,0 +1,8 @@
+setwd("C:/Users/jcortes/My Drive/ADMTP/Web/2024/ADMTP2024")
+rmarkdown::render("index.Rmd")
+rmarkdown::render("comitte.Rmd")
+rmarkdown::render("invited.Rmd")
+rmarkdown::render("presentations.Rmd")
+rmarkdown::render("program.Rmd")
+rmarkdown::render("proper_conduct.Rmd")
+rmarkdown::render("coming_soon.Rmd")

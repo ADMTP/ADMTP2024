@@ -3,10 +3,12 @@ title: ""
 output: html_document
 ---
 
-<style type="text/css">
-body {
- background-image: url("coming_soon.jpg");
- background-position: center top;
- background-size: 100% auto;
-}
-</style> 
+<!-- <style type="text/css"> -->
+<!-- body { -->
+<!--  background-image: url("coming_soon.jpg"); -->
+<!--  background-position: center top; -->
+<!--  background-size: 100% auto; -->
+<!-- } -->
+<!-- </style>  -->
+
+![](coming_soon3.gif){width=100%}
