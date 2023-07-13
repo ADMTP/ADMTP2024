@@ -1,42 +1,36 @@
 ---
-title: "Program"
+title: "Invited Speakers"
 output:
-  html_document: 
+  html_document:
     theme: cosmo
 ---
 
-# Invited speakers
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
 
+<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->
 
-![](chris-jennison.jpg){width=40%, height=300px} ![](TobiasMielke.jpg){width=40%, height=300px}
+<!-- ## Invited Speakers -->
 
-## Professor Chris Jennison, University of Bath
+### Dr. Emily Johnson
 
-***Optimising sequential and adaptive designs: the power of dynamic programming***
+![](user_default.png)
 
-Christopher Jennison is Professor of Statistics at the University of Bath, UK. His PhD research at Cornell University concerned the sequential analysis of clinical trials and he has continued to work in this area for almost 40 years. His book with Professor Bruce Turnbull, "Group Sequential Methods with Applications to Clinical Trials", is a standard text on this topic and is widely used by practising statisticians. The second edition of this book, extended to cover adaptive designs, is finally nearing completion.
+Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs for clinical trials. She received her Ph.D. in Biostatistics from XYZ University and has over 15 years of experience in the field. Dr. Johnson has published numerous articles on adaptive trial designs and has been invited to speak at various international conferences. Her research focuses on developing innovative statistical methods for improving the efficiency and ethical aspects of clinical trials.
 
-Professor Jennison's research is informed by experience of clinical trial analysis at the Dana Farber Cancer Institute, Boston, by service on data monitoring committees, and by a broad range of consultancy with pharmaceutical companies.
+**Title of Talk:** Adaptive Designs in Clinical Trials
 
+### Dr. Michael Lee
 
+![](user_default.png)
 
-## Dr Tobias Mielke, Janssen
+Dr. **Michael Lee** is a leading expert in group sequential designs and has made significant contributions to the field of adaptive statistical methods. He obtained his Ph.D. in Statistics from ABC University and currently serves as a professor at XYZ University. Dr. Lee has extensive experience in designing and analyzing clinical trials with interim analyses. His research has had a profound impact on improving the efficiency and integrity of clinical trials.
 
-***Adaptive Platform Trials: Complex and Innovative – but how Useful?***
-
-
-
-Tobias works as Senior Scientific Director in Janssen’s internal statistical consulting group. Tobias joined Janssen in 2018 to support the planning and implementation of adaptive and complex innovative designs in Janssen across therapeutic areas. Since end of 2019, Tobias contributes as Janssen representative to the statistical methodology work-package of the IMI Project EU PEARL. Prior to joining Janssen, Tobias worked at ICON Clinical Research as statistical consultant and had the chance to gather through numerous consulting projects experience on late-phase adaptive study designs, dose-response modeling and multiplicity problems. Tobias was one of the architects of ADDPLAN DF, a software for the design, simulation and analysis of adaptive dose-finding studies using MCPMod. Within this role at ICON, Tobias particularly enjoyed to implement his (at that time) fresh learnings from his PhD into some adaptive dose-finding methods. Tobias has a PhD from University of Magdeburg (Germany) on the topic of model-based design of experiments for nonlinear mixed effects models.
-
-
-
-# EU-PEARL Session on Platform Trials
-
-- *NCC: An R-package for analysis and simulation of platform trials with non-concurrent controls* by Pavla Krotka (Medical University of Vienna)
-- *Optimal allocation strategies in platform trials* by Marta Bofill Roig (Medical University of Vienna)
-- *TBA* by Quynh Lan Nguyen (Paul-Ehrlich-Institut)
--	*Looking forward and benefiting from the past: Sample size estimation for new arms in platform trials* by Sonja Zehetmayer (Medical University of Vienna)
-
-
+**Title of Talk:** Group Sequential Designs
 
 

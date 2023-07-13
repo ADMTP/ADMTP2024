@@ -4,8 +4,16 @@ output:
   html_document:
     theme: cosmo
 ---
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
   
-# Adaptive Designs and Multiple Testing Procedures Workshop
+<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->
   
 ## Day 1: April 25, 2024
   
