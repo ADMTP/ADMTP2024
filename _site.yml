@@ -28,7 +28,9 @@ navbar:
       - text: "Hotel information"
         href: hotels.html
       - text: "Registration"
-        href: registration.html          
+        href: registration.html 
+      - text: "Abstract submission"
+        href: abstract.html 
     - text: "Presentations"
       href: presentations.html
 output:
