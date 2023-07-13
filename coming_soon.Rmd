@@ -11,4 +11,12 @@ output: html_document
 <!-- } -->
 <!-- </style>  -->
 
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
 ![](coming_soon3.gif){width=100%}

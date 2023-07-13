@@ -8,10 +8,12 @@ output:
 <!-- # Conference Organizers -->
 
 <style type="text/css">
-  body{
-  font-size: 12pt;
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
 }
-</style> 
+</style>
 
 ## Local Organizing Committee (LOC)
 

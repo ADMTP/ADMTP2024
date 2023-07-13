@@ -8,10 +8,12 @@ output:
 <!-- # Conference Organizers -->
 
 <style type="text/css">
-  body{
-  font-size: 12pt;
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
 }
-</style> 
+</style>
 
 The Austro-Swiss Region of the International Biometric Society is committed to fostering a professional and inclusive environment at all times. We endorse the values of the International Biometric Society (IBS) and expect all members, employees, and attendees of events organized by IBS to adhere to the principles outlined below:
 

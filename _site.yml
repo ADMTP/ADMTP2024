@@ -15,7 +15,7 @@ navbar:
       menu:
       - text: "Schedule at glance"
         href: program.html
-      - text: "Extended program"
+      - text: "Book of Abstracts"
         href: ADMTP_Basel2023_Booklet.pdf   
     - text: "Invited sessions"
       href: invited.html
@@ -24,11 +24,11 @@ navbar:
     - text: "Conference information"
       menu:
       - text: "Conference deadlines"
-        href: coming_soon.html
+        href: dates.html 
       - text: "Hotel information"
-        href: coming_soon.html
+        href: hotels.html
       - text: "Registration"
-        href: coming_soon.html          
+        href: registration.html          
     - text: "Presentations"
       href: presentations.html
 output:

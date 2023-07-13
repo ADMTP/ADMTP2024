@@ -1,0 +1,38 @@
+---
+title: "Deadlines"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
+## Important Dates 
+
+- **Registration Opens:** January 1, 2024
+- **Abstract Submission Deadline:** March 1, 2024
+- **Notification of Abstract Acceptance:** March 15, 2024
+- **Early Bird Registration Deadline:** March 31, 2024
+- **Regular Registration Deadline:** April 15, 2024
+- **Conference Dates:** April 25-26, 2024
+
+## Registration
+
+Registration for the conference will open on January 1, 2024. Please visit the [Registration](registration.html) page for more information and to register for the conference.
+
+## Abstract Submission
+
+Abstracts for oral and poster presentations can be submitted until the deadline of March 1, 2024. Authors will be notified of the acceptance of their abstracts by March 15, 2024.
+
+For detailed guidelines on abstract submission and to submit your abstract, please visit the [Abstract Submission](abstract_submission.html) page.
+
+We look forward to receiving your submissions and sharing your research during the conference!
+
+
+
