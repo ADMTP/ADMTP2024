@@ -19,7 +19,7 @@ h1.title {
 
 ### Dr. Emily Johnson
 
-![](user_default.png)
+![](images/user_default.png)
 
 Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs for clinical trials. She received her Ph.D. in Biostatistics from XYZ University and has over 15 years of experience in the field. Dr. Johnson has published numerous articles on adaptive trial designs and has been invited to speak at various international conferences. Her research focuses on developing innovative statistical methods for improving the efficiency and ethical aspects of clinical trials.
 
@@ -27,7 +27,7 @@ Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs 
 
 ### Dr. Michael Lee
 
-![](user_default.png)
+![](images/user_default.png)
 
 Dr. **Michael Lee** is a leading expert in group sequential designs and has made significant contributions to the field of adaptive statistical methods. He obtained his Ph.D. in Statistics from ABC University and currently serves as a professor at XYZ University. Dr. Lee has extensive experience in designing and analyzing clinical trials with interim analyses. His research has had a profound impact on improving the efficiency and integrity of clinical trials.
 

@@ -31,7 +31,7 @@ h1.title {
 - Dr. Andrew Clark
 - Dr. Jessica Robinson
 
-## Scientific Program Committee
+## Scientific Program Committee (SPC)
 
 - Dr. Brian Taylor
 - Dr. Karen Anderson
@@ -41,7 +41,9 @@ h1.title {
 
 ## Welcome Letter
 
-![Dr. John Smith](user_default.png) | ![Dr. Emily Johnson](user_default.png)
+<hr>
+
+![Dr. John Smith](images/user_default.png) | ![Dr. Emily Johnson](images/user_default.png)
 :---: | :---:
 Dr. John Smith | Dr. Emily Johnson
 

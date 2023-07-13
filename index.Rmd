@@ -15,6 +15,41 @@ h1.title {
 }
 </style>
 
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style> 
+
+<style>
+.sponsor {
+  display: inline-block;
+  margin: 10px;
+}
+
+.sponsor img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sponsor-level-gold {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #D4AF37
+}
+.sponsor-level-silver {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #A6A6A6
+}
+.organizers {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #000000
+}
+
+</style>
+
 ```{r figurename, echo=FALSE, fig.cap="Eivissa Port", out.width = '60%', fig.align='center'}
 # knitr::include_graphics("Eivissa_1.jpg")
 ```
@@ -29,11 +64,7 @@ slickR::slickR(
 ```
 
 
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
-</style> 
+
 
 <br>
 
@@ -56,24 +87,92 @@ We are delighted to announce the next annual workshop of the joint working group
 
 $$\\[0.1cm]$$
 
+
+# Sponsors
+
+<hr>
+
 **We are grateful to acknowledge sponsorship from**:
 
-![](Roche_logo.PNG){width=15%}
-&nbsp;&nbsp;
-![](Novartis_logo.PNG){width=25%}
-&nbsp;&nbsp;
-![](logo_GRBIO.jpg){width=13%}
-&nbsp;&nbsp;
-![](logo_cytel.png){width=15%}
+## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span>
+
+<hr>
+
+```{=html}
+<div class="sponsor-level-gold">
+    <div class="sponsor">
+        <img src="logos/Roche_logo2.PNG" alt="Roche" width="180">
+    </div>
+    <div class="sponsor">
+        <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="250">
+    </div>
+    <div class="sponsor">
+        <img src="logos/logo_cytel2.png" alt="Cytel" width="180">
+    </div>
+    <div class="sponsor">
+        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="180">
+    </div>
+</div>
+```
+
+
+## <span style="color: #A6A6A6;"><b>Silver Sponsors</b></span>
+
+<hr>
+
+```{=html}
+<div class="sponsor-level-silver">
+    <div class="sponsor">
+        <img src="logos/Roche_logo2.PNG" alt="Roche" width="120">
+    </div>
+    <div class="sponsor">
+        <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="160">
+    </div>
+    <div class="sponsor">
+        <img src="logos/logo_cytel2.png" alt="Cytel" width="120">
+    </div>
+    <div class="sponsor">
+        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="120">
+    </div>
+</div>
+```
+
+
+<!-- ![](logos/Roche_logo.PNG){width=15%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/Novartis_logo.PNG){width=25%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/logo_GRBIO.jpg){width=13%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/logo_cytel.png){width=15%} -->
 
 
 
 $$\\[0.1cm]$$
 
+# Organizers
+
+<hr>
+
 **ORGANIZED BY**:
 
-![](ROeS.png){width=13%}
-![](IBS_DR.PNG){width=13%}
-![](BSS_logo.PNG)
+
+```{=html}
+<div class="organizers">
+    <div class="sponsor">
+        <img src="logos/ROeS.png" alt="Roche" width="150">
+    </div>
+    <div class="sponsor">
+        <img src="logos/IBS_DR.PNG" alt="Novartis" width="150">
+    </div>
+    <div class="sponsor">
+        <img src="logos/BSS_logo.PNG" alt="Cytel" width="150">
+    </div>
+</div>
+```
+
+<!-- ![](ROeS.png){width=13%} -->
+<!-- ![](IBS_DR.PNG){width=13%} -->
+<!-- ![](BSS_logo.PNG) -->
 
 
