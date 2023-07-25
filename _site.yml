@@ -15,8 +15,8 @@ navbar:
       menu:
       - text: "Schedule at glance"
         href: program.html
-      - text: "Book of Abstracts"
-        href: ADMTP_Basel2023_Booklet.pdf   
+      #- text: "Book of Abstracts"
+      #  href: ADMTP_Basel2023_Booklet.pdf   
     - text: "Invited sessions"
       href: invited.html
     - text: "Workshop booklet"

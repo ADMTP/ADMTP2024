@@ -23,47 +23,47 @@ h1.title {
 
 #### Welcome (9:30 AM - 9:45 AM)
 
-  - Emily Johnson (Chair of local organizing committee)
-  - Michael Lee - (Chair of IBS-DR and ROeS ADMTP working group)
-  - Sarah Thompson - (Basel Biometric Society)
-
+  - *TBA* (Chair of local organizing committee)
+  - *TBA* - (Chair of IBS-DR and ROeS ADMTP working group)
+  - *TBA* - (Basel Biometric Society)
+  
 #### Invited Session 1 (9:45 AM - 11:00 AM)
 
-- **Chair**: John Smith
+- **Chair**: *TBA*
 
-  - **Dr. Emily Johnson** - *Adaptive platform trials: How and when?*
+  - *TBA*
 
   
 #### Coffee Break (11:00 AM - 11:30 AM)
   
 #### Morning Session 1 (11:30 AM - 1:00 PM)
 
-- **Chair:** Lisa Davis
+- **Chair:** *TBA*
 - **Speakers:**
-  - Mark Wilson - *Multiple Testing Procedures*
-  - Laura Miller - *False Discovery Rate Control*
-  - Andrew Clark - *Adaptive Designs for Precision Medicine*
-  - Jessica Robinson - *Sequential Monitoring of Clinical Trials*
+  - *TBA*
+  - *TBA*
+  - *TBA*
+  - *TBA*
   
 #### Lunch Break (1:00 PM - 2:30 PM)
   
 #### Afternoon Session 1 (2:30 PM - 4:00 PM)
 
-- **Chair:** Brian Taylor
+- **Chair:** *TBA*
 - **Speakers:**
-  - Amy White - *Bayesian Adaptive Designs*
-  - Peter Wilson - *Designing Adaptive Seamless Trials*
-  - Michelle Carter - *Adaptive Sample Size Allocation*
-  - Daniel Green - *Adaptive Designs in Early Phase Trials*
+  - *TBA*
+  - *TBA*
+  - *TBA*
+  - *TBA*
   
 #### Coffee Break (4:00 PM - 4:30 PM)
   
 #### Afternoon Session 2 (4:30 PM - 5:30 PM)
 
-- **Chair:** Karen Anderson
+- **Chair:** *TBA*
 - **Speakers:**
-  - Rosa Lamarca - *Adaptive Designs for Rare Diseases*
-  - Emma Davis - *Challenges in Implementing Adaptive Designs*
+  - *TBA*
+  - *TBA*
   
 #### Gala Dinner (7:00 PM onwards)
 
@@ -78,9 +78,9 @@ h1.title {
 
 #### Invited session 2 (10:00 AM - 11:00 AM)
 
-- **Chair**: John Smith
+- **Chair**: *TBA*
 
-  - **Sarah Thompson** - *Adaptive Dose-Finding Designs*
+  - *TBA*
 
 #### Coffee Break (11:00 AM - 11:30 AM)
   
@@ -88,29 +88,29 @@ h1.title {
 
 - **Chair:** Lisa Davis
 - **Speakers:**
-  - Mark Wilson - *Multiple Testing Procedures*
-  - Laura Miller - *False Discovery Rate Control*
-  - Andrew Clark - *Adaptive Designs for Precision Medicine*
-  - Jessica Robinson - *Sequential Monitoring of Clinical Trials*
+  - *TBA*
+  - *TBA*
+  - *TBA*
+  - *TBA*
   
 #### Lunch Break (1:00 PM - 2:30 PM)
   
 #### Afternoon Session 3 (2:30 PM - 4:00 PM)
 
-- **Chair:** Brian Taylor
+- **Chair:** *TBA*
 - **Speakers:**
-  - Amy White - *Bayesian Adaptive Designs*
-  - Peter Wilson - *Designing Adaptive Seamless Trials*
-  - Michelle Carter - *Adaptive Sample Size Allocation*
-  - Daniel Green - *Adaptive Designs in Early Phase Trials*
+  - *TBA*
+  - *TBA*
+  - *TBA*
+  - *TBA*
   
 #### Coffee Break (4:00 PM - 4:30 PM)
   
 #### Afternoon Session 2 (4:30 PM - 5:30 PM)
 
-- **Chair:** Karen Anderson
+- **Chair:** *TBA*
 - **Speakers:**
-  - Steven Johnson - *Adaptive Designs in Medical Device Trials*
-  - Rachel Thompson - *Adaptive Designs in Oncology Trials*
+  - *TBA*
+  - *TBA*
 
   
