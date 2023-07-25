@@ -94,7 +94,7 @@ $$\\[0.1cm]$$
 
 **We are grateful to acknowledge sponsorship from**:
 
-## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span>
+<!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
 
 <hr>
 
@@ -116,25 +116,25 @@ $$\\[0.1cm]$$
 ```
 
 
-## <span style="color: #A6A6A6;"><b>Silver Sponsors</b></span>
+<!-- ## <span style="color: #A6A6A6;"><b>Silver Sponsors</b></span> -->
 
-<hr>
+<!-- <hr> -->
 
 ```{=html}
-<div class="sponsor-level-silver">
-    <div class="sponsor">
-        <img src="logos/Roche_logo2.PNG" alt="Roche" width="120">
-    </div>
-    <div class="sponsor">
-        <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="160">
-    </div>
-    <div class="sponsor">
-        <img src="logos/logo_cytel2.png" alt="Cytel" width="120">
-    </div>
-    <div class="sponsor">
-        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="120">
-    </div>
-</div>
+<!-- <div class="sponsor-level-silver"> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/Roche_logo2.PNG" alt="Roche" width="120"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="160"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/logo_cytel2.png" alt="Cytel" width="120"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="120"> -->
+<!--     </div> -->
+<!-- </div> -->
 ```
 
 
