@@ -19,8 +19,8 @@ navbar:
       #  href: ADMTP_Basel2023_Booklet.pdf   
     - text: "Invited sessions"
       href: invited.html
-    - text: "Workshop booklet"
-      href: ADMTP_Basel2023_Booklet.pdf
+    #- text: "Workshop booklet"
+    #  href: ADMTP_Basel2023_Booklet.pdf
     - text: "Conference info"
       menu:
       - text: "Conference deadlines"
@@ -31,8 +31,8 @@ navbar:
         href: registration.html 
       - text: "Abstract submission"
         href: abstract.html 
-    - text: "Presentations"
-      href: presentations.html
+    #- text: "Presentations"
+    #  href: presentations.html
 output:
   html_document:
     theme: cosmo
