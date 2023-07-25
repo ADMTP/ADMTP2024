@@ -13,7 +13,7 @@ h1.title {
 }
 </style>
   
-<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->
+<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->  
   
 ## **Day 1: April 25, 2024**
 
