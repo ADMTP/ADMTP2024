@@ -50,6 +50,12 @@ h1.title {
 
 </style>
 
+```{=html}
+<head>
+<title>ADMTP2024</title>
+</head>
+```
+
 ```{r figurename, echo=FALSE, fig.cap="Eivissa Port", out.width = '60%', fig.align='center'}
 # knitr::include_graphics("Eivissa_1.jpg")
 ```
@@ -101,16 +107,24 @@ $$\\[0.1cm]$$
 ```{=html}
 <div class="sponsor-level-gold">
     <div class="sponsor">
+        <a href="https://www.roche.com/"; target=_blank">
         <img src="logos/Roche_logo2.PNG" alt="Roche" width="180">
+        </a>
     </div>
     <div class="sponsor">
+        <a href="https://www.novartis.com/uk-en/"; target=_blank">
         <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="250">
+        </a>
     </div>
     <div class="sponsor">
+        <a href="https://www.cytel.com/"; target=_blank">
         <img src="logos/logo_cytel2.png" alt="Cytel" width="180">
+        </a>
     </div>
     <div class="sponsor">
+        <a href="https://grbio.upc.edu/en"; target=_blank">
         <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="180">
+        </a>
     </div>
 </div>
 ```
