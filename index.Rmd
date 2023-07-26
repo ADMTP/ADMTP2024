@@ -1,5 +1,5 @@
 ---
-title: |
+title: |  
     | Adaptive Designs and Multiple Testing Procedures Workshop
     | 25th - 26th April, 2024
 output:
