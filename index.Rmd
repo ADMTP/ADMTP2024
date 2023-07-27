@@ -76,18 +76,22 @@ slickR::slickR(
 
 We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Basel Biometric Society.
 
-**Where:** XXX, Eivissa, Spain. The workshop will be a **face-to-face event**, with no option to participate virtually.
+**Where:** Ibiza, Spain. The workshop will be a **face-to-face event**, with no option to participate virtually.
 
-**When:** The workshop will run from 25th April, 2024 (opening at XXX) until 26th April, 2024 (closing at XXX).
+**When:** The workshop will run from 25th April, 2024 (opening at 9 am) until 26th April, 2024 (closing at 6 pm).
 
-**Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project.
+<!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project. -->
 
 
-**Registration:** Registration closed on XXX, 2024.
+**Registration:** Registration closes on 1 March 2024.
 
-**Abstract submission** Submission of abstracts closed on XXX, 2024.
+**Abstract submission** Submission of abstracts closes on 2 February   2024.
 
-**Local Organizing Committee:** XXX
+**Scientific and Organizing Committee:** Marta Bofill Roig (Medical University of Vienna), 
+ Thomas Asendorf (Medical University of Göttingen),
+ Jordi Cortés Martínez (Universitat Politècnica de Catalunya),
+ Sonja Zehetmayer  (Medical University of Vienna), and
+ Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria).
 
 **Contact:** If you have any questions about the workshop, please e-mail [Marta Bofill Roig](mailto:marta.bofillroig@meduniwien.ac.at).
 
@@ -179,9 +183,9 @@ $$\\[0.1cm]$$
     <div class="sponsor">
         <img src="logos/IBS_DR.PNG" alt="Novartis" width="150">
     </div>
-    <div class="sponsor">
-        <img src="logos/BSS_logo.PNG" alt="Cytel" width="150">
-    </div>
+    <!-- <div class="sponsor"> -->
+    <!--     <img src="logos/BSS_logo.PNG" alt="Cytel" width="150"> -->
+    <!-- </div> -->
 </div>
 ```
 
