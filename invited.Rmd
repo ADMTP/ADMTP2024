@@ -37,7 +37,8 @@ h1.title {
 
 <hr>
 
+To be announced. 
 
-- Invited session 1:
-- Invited session 2:
+<!-- - Invited session 1: -->
+<!-- - Invited session 2: -->
 

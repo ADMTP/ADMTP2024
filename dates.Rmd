@@ -15,15 +15,15 @@ h1.title {
 
 ## Important Dates 
 
-- **Registration Opens:** January 1, 2024
+- **Registration Opens:** October 1, 2023
 - **Abstract Submission Deadline:** March 1, 2024
 - **Notification of Abstract Acceptance:** March 15, 2024
-- **Registration Deadline:** April 15, 2024
+- **Registration Deadline:** February 2, 2024
 - **Conference Dates:** April 25-26, 2024
 
 ## Registration
 
-Registration for the conference will open on January 1, 2024. Please visit the [Registration](registration.html) page for more information and to register for the conference.
+Registration for the conference will open on October 1, 2023. Please visit the [Registration](registration.html) page for more information and to register for the conference.
 
 ## Abstract Submission
 
