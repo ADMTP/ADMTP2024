@@ -106,28 +106,18 @@ $$\\[0.1cm]$$
 
 <!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
 
-<hr>
+<!-- <hr> -->
 
 ```{=html}
 <div class="sponsor-level-gold">
     <div class="sponsor">
-        <a href="https://www.roche.com/"; target=_blank">
-        <img src="logos/Roche_logo2.PNG" alt="Roche" width="180">
-        </a>
-    </div>
-    <div class="sponsor">
-        <a href="https://www.novartis.com/uk-en/"; target=_blank">
-        <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="250">
-        </a>
-    </div>
-    <div class="sponsor">
-        <a href="https://www.cytel.com/"; target=_blank">
-        <img src="logos/logo_cytel2.png" alt="Cytel" width="180">
+        <a href="https://www.rpact.org/"; target=_blank">
+        <img src="logos/rpact.png" alt="Rpact" width="115">
         </a>
     </div>
     <div class="sponsor">
         <a href="https://grbio.upc.edu/en"; target=_blank">
-        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="180">
+        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="150">
         </a>
     </div>
 </div>
@@ -178,13 +168,22 @@ $$\\[0.1cm]$$
 ```{=html}
 <div class="organizers">
     <div class="sponsor">
-        <img src="logos/ROeS.png" alt="Roche" width="150">
+        <a href="https://www.ibs-roes.org/"; target=_blank">
+        <img src="logos/ROeS.png" alt="ROeS" width="160">
+        </a>
     </div>
     <div class="sponsor">
-        <img src="logos/IBS_DR.PNG" alt="Novartis" width="150">
+        <a href="http://www.biometrische-gesellschaft.de/en/home.html"; target=_blank">
+        <img src="logos/IBS_DR_.PNG" alt="IBS" width="150">
+        </a>
+    </div>
+        <div class="sponsor">
+        <a href="https://www.uib.eu/"; target=_blank">
+        <img src="logos/uib_.png" alt="UIB" width="95">
+        </a>
     </div>
     <!-- <div class="sponsor"> -->
-    <!--     <img src="logos/BSS_logo.PNG" alt="Cytel" width="150"> -->
+    <!--     <img src="logos/BSS_logo.PNG" alt="BSS" width="150"> -->
     <!-- </div> -->
 </div>
 ```
