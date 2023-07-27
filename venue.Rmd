@@ -1,0 +1,184 @@
+---
+title: Venue
+output:
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style> 
+
+<style>
+.sponsor {
+  display: inline-block;
+  margin: 10px;
+}
+
+.sponsor img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sponsor-level-gold {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #D4AF37
+}
+.sponsor-level-silver {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #A6A6A6
+}
+.organizers {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #000000
+}
+
+</style>
+
+```{r echo=FALSE}
+# https://stackoverflow.com/questions/61313078/create-a-carousel-in-rmarkdown
+objpath <- file.path(getwd(),"images/venue")
+slickR::slickR(
+    list.files(objpath,full.names = TRUE,pattern = 'png'),
+    height = 350,
+    width = '95%')
+```
+
+
+
+
+<br>
+
+We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Basel Biometric Society.
+
+**Where:** Ibiza, Spain. The workshop will be a **face-to-face event**, with no option to participate virtually.
+
+**When:** The workshop will run from 25th April, 2024 (opening at 9 am) until 26th April, 2024 (closing at 6 pm).
+
+<!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project. -->
+
+
+**Registration:** Registration closes on 1 March 2024.
+
+**Abstract submission** Submission of abstracts closes on 2 February   2024.
+
+**Scientific and Organizing Committee:** Marta Bofill Roig (Medical University of Vienna), 
+ Thomas Asendorf (Medical University of Göttingen),
+ Jordi Cortés Martínez (Universitat Politècnica de Catalunya),
+ Sonja Zehetmayer  (Medical University of Vienna), and
+ Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria).
+
+**Contact:** If you have any questions about the workshop, please e-mail [Marta Bofill Roig](mailto:marta.bofillroig@meduniwien.ac.at).
+
+$$\\[0.1cm]$$
+
+
+# Sponsors
+
+<hr>
+
+**We are grateful to acknowledge sponsorship from**:
+
+<!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
+
+<hr>
+
+```{=html}
+<div class="sponsor-level-gold">
+    <div class="sponsor">
+        <a href="https://www.roche.com/"; target=_blank">
+        <img src="logos/Roche_logo2.PNG" alt="Roche" width="180">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="https://www.novartis.com/uk-en/"; target=_blank">
+        <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="250">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="https://www.cytel.com/"; target=_blank">
+        <img src="logos/logo_cytel2.png" alt="Cytel" width="180">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="https://grbio.upc.edu/en"; target=_blank">
+        <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="180">
+        </a>
+    </div>
+</div>
+```
+
+
+<!-- ## <span style="color: #A6A6A6;"><b>Silver Sponsors</b></span> -->
+
+<!-- <hr> -->
+
+```{=html}
+<!-- <div class="sponsor-level-silver"> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/Roche_logo2.PNG" alt="Roche" width="120"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/Novartis_logo2.PNG" alt="Novartis" width="160"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/logo_cytel2.png" alt="Cytel" width="120"> -->
+<!--     </div> -->
+<!--     <div class="sponsor"> -->
+<!--         <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="120"> -->
+<!--     </div> -->
+<!-- </div> -->
+```
+
+
+<!-- ![](logos/Roche_logo.PNG){width=15%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/Novartis_logo.PNG){width=25%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/logo_GRBIO.jpg){width=13%} -->
+<!-- &nbsp;&nbsp; -->
+<!-- ![](logos/logo_cytel.png){width=15%} -->
+
+
+
+$$\\[0.1cm]$$
+
+# Organizers
+
+<hr>
+
+**ORGANIZED BY**:
+
+
+```{=html}
+<div class="organizers">
+    <div class="sponsor">
+        <img src="logos/ROeS.png" alt="Roche" width="150">
+    </div>
+    <div class="sponsor">
+        <img src="logos/IBS_DR.PNG" alt="Novartis" width="150">
+    </div>
+    <!-- <div class="sponsor"> -->
+    <!--     <img src="logos/BSS_logo.PNG" alt="Cytel" width="150"> -->
+    <!-- </div> -->
+</div>
+```
+
+<!-- ![](ROeS.png){width=13%} -->
+<!-- ![](IBS_DR.PNG){width=13%} -->
+<!-- ![](BSS_logo.PNG) -->
+
+

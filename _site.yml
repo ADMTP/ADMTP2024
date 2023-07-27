@@ -23,10 +23,12 @@ navbar:
     #  href: ADMTP_Basel2023_Booklet.pdf
     - text: "Conference info"
       menu:
+      - text: "Venue"
+        href: venue.html 
       - text: "Conference deadlines"
         href: dates.html 
-      - text: "Hotel information"
-        href: hotels.html
+      #- text: "Hotel information"
+      #  href: hotels.html
       - text: "Registration"
         href: registration.html 
       - text: "Abstract submission"

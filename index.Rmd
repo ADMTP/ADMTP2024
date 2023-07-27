@@ -62,7 +62,7 @@ h1.title {
 
 ```{r echo=FALSE}
 # https://stackoverflow.com/questions/61313078/create-a-carousel-in-rmarkdown
-objpath <- file.path(getwd(),"slickr_files/figure-html")
+objpath <- file.path(getwd(),"images/carousel_home")
 slickR::slickR(
     list.files(objpath,full.names = TRUE,pattern = 'png'),
     height = 350,
