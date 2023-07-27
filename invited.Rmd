@@ -25,7 +25,7 @@ h1.title {
 
 <hr>
 
-![](images/user_default.png)
+![](images/dominic_magirr.jpg)
 
 <!-- Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs for clinical trials. She received her Ph.D. in Biostatistics from XYZ University and has over 15 years of experience in the field. Dr. Johnson has published numerous articles on adaptive trial designs and has been invited to speak at various international conferences. Her research focuses on developing innovative statistical methods for improving the efficiency and ethical aspects of clinical trials. -->
 
