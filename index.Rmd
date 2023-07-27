@@ -45,7 +45,7 @@ h1.title {
 .organizers {
   text-align: center;
   margin-bottom: 30px;
-  background-color: #000000
+  background-color: #ADD8E6 
 }
 
 </style>
@@ -174,7 +174,7 @@ $$\\[0.1cm]$$
     </div>
     <div class="sponsor">
         <a href="http://www.biometrische-gesellschaft.de/en/home.html"; target=_blank">
-        <img src="logos/IBS_DR_.PNG" alt="IBS" width="150">
+        <img src="logos/IBS_DR_.PNG" alt="IBS" width="145">
         </a>
     </div>
         <div class="sponsor">
