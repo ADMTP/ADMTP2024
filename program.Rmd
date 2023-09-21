@@ -21,11 +21,7 @@ h1.title {
 
 #### Registration (9:00 AM - 9:30 AM)
 
-#### Welcome (9:30 AM - 9:45 AM)
-
-  - *TBA* (Chair of local organizing committee)
-  - *TBA* - (Chair of IBS-DR and ROeS ADMTP working group)
-  - *TBA* - (Basel Biometric Society)
+#### Welcome (9:30 AM - 9:45 AM) 
   
 #### Invited Session 1 (9:45 AM - 11:00 AM)
 
