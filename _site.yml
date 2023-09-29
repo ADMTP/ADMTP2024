@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Welcome"
       menu:
-      - text: "Comittes"
+      - text: "Committees"
         href: comitte.html
       - text: "Statement on Proper Conduct"
         href: proper_conduct.html 
