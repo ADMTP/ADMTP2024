@@ -89,9 +89,10 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Scientific and Organizing Committee:** Marta Bofill Roig (Medical University of Vienna), 
  Thomas Asendorf (Medical University of Göttingen),
- Jordi Cortés Martínez (Universitat Politècnica de Catalunya),
+ Jordi Cortés Martínez (Universitat Politècnica de Catalunya), 
+ Alexandra Graf  (Medical University of Vienna), 
  Sonja Zehetmayer  (Medical University of Vienna), 
- Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria),
+ <!-- Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria), -->
  Francesc A. Rosselló Llompart (Universitat de les Illes Balears),
  Irene García Mosquera (Universitat de les Illes Balears) and
  Arnau Mir Torres (Universitat de les Illes Balears).

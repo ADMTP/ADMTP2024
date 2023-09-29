@@ -30,8 +30,9 @@ h1.title {
 - Marta Bofill Roig (Medical University of Vienna)
 - Thomas Asendorf (Medical University of Göttingen)
 - Jordi Cortés Martínez (Universitat Politècnica de Catalunya)
+- Alexandra Graf  (Medical University of Vienna)
 - Sonja Zehetmayer  (Medical University of Vienna)
-- Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria)
+<!-- - Juan Carbonell Asins (INCLIVA Instituto de Investigación Sanitaria) -->
 
 &nbsp;
 
