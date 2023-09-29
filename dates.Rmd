@@ -15,7 +15,7 @@ h1.title {
 
 ## Important Dates 
 
-- **Registration Opens:** September 18, 2023
+- **Registration Opens:** October 1, 2023
 - **Abstract Submission Deadline:** February 2, 2024
 - **Notification of Abstract Acceptance:** February 16, 2024
 - **Registration Deadline:** March 1, 2024

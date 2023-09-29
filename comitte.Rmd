@@ -1,5 +1,5 @@
 ---
-title: "Comittes"
+title: "Committees"
 output:
   html_document:
     theme: cosmo
@@ -69,4 +69,4 @@ Once again, we extend our warmest welcome and wish you a fruitful and memorable 
 
 Best regards,
 
-On behalf of the scientific and organizing committees
+Scientific and organizing committees

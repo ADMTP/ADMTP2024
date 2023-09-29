@@ -17,8 +17,8 @@ h1.title {
 
 ## Registration Dates
 
-- **Registration Opens:** October 1, 2023.
-- **Registration Deadline:** March 1, 2024.
+- **Registration Opens:** October 1, 2023
+- **Registration Deadline:** March 1, 2024
 
 ## Registration Process
 
