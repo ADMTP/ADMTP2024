@@ -88,7 +88,7 @@ We are delighted to announce the next annual workshop of the joint working group
 <!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project. -->
 
 
-**Registration:** Registration closes on 1 March 2024.
+**Registration:** Registration closes on 1 March 2024. Please use the conftool for registration: [https://www.conftool.org/admtp-workshop-2024/](https://www.conftool.org/admtp-workshop-2024/)
 
 **Abstract submission** Submission of abstracts closes on 2 February   2024.
 
