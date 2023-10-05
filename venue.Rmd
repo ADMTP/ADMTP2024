@@ -73,7 +73,9 @@ slickR::slickR(
 Hotel Vibra Algarb 4* is located on the beach of Playa d’en Bossa right against the beach. Its prime location allows you to easily move to any point of the island and enjoy an infinite amount of activities in entertainment and leisure. 
 
 ```{=html}
+<p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1305.6464357904122!2d1.408729018197904!3d38.89269776494836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x129946827f1db6eb%3A0xede55af3f2529459!2sHotel%20Vibra%20Algarb!5e0!3m2!1sen!2ses!4v1690466979258!5m2!1sen!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
 ```
 
 
