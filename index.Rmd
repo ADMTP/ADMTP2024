@@ -120,7 +120,7 @@ $$\\[0.1cm]$$
 ```{=html}
 <div class="sponsor-level-gold">
     <div class="sponsor">
-        <a href="https://www.rpact.org/"; target=_blank">
+        <a href="https://www.rpact.com/"; target=_blank">
         <img src="logos/rpact.png" alt="Rpact" width="115">
         </a>
     </div>
