@@ -29,7 +29,7 @@ h1.title {
 
 <!-- Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs for clinical trials. She received her Ph.D. in Biostatistics from XYZ University and has over 15 years of experience in the field. Dr. Johnson has published numerous articles on adaptive trial designs and has been invited to speak at various international conferences. Her research focuses on developing innovative statistical methods for improving the efficiency and ethical aspects of clinical trials. -->
 
-**Title of Talk:** Deconstructing the Max-combo Test
+**Title:** Deconstructing the Max-combo Test
 
 
 
@@ -62,4 +62,14 @@ Speakers:
 - David Robertson (MRC Biostatistics Unit, University of Cambridge)
 - Munya Dimairo (University of Sheffield)
 
+<br><br><br>
 
+Title: **Practical experiences of using software to design clinical trials using simulations**
+
+Speakers:
+
+- Peter Jacko (Berry Consultants)
+- Gernot Wassmer (RPACT)
+- Friedrich Pahlke (RPACT)
+- Tobias Mielke (Janssen)
+- Daniel Sabanés Bové (Roche)

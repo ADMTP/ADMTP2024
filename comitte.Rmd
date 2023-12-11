@@ -27,6 +27,8 @@ h1.title {
 
 ## Scientific Committee (SPC)
 
+<hr>
+
 - Marta Bofill Roig (Medical University of Vienna)
 - Thomas Asendorf (Medical University of Göttingen)
 - Jordi Cortés Martínez (Universitat Politècnica de Catalunya)
@@ -38,6 +40,8 @@ h1.title {
 
 
 ## Organizing Committee (LOC)
+
+<hr>
 
 - Marta Bofill Roig (Medical University of Vienna)
 - Thomas Asendorf (Medical University of Göttingen)

@@ -75,7 +75,25 @@ slickR::slickR(
 ```
 
 
+<br><br>
 
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+
+<br>
+![](images/icons/money-check-dollar-solid.svg){width=25px} 
+&nbsp; To avoid paying a higher price for your accommodation, we highly recommend booking your stay <b>as soon as possible</b>. 
+
+<br>
+![](images/icons/calendar-days-solid.svg){width=25px}
+&nbsp; You can still book your room at the <a href="https://admtp.github.io/ADMTP2024/venue.html"><b>venue hotel</b></a>, and 
+note that you will receive a <b>discount</b> when you register.  
+
+<br>
+![](images/icons/plane-solid.svg){width=25px}
+&nbsp; Moreover, there are <b>direct flights</b> available from various central cities such as Vienna, Basel, 
+Berlin, Frankfurt, and London to Ibiza on the dates of the event.
+</div>
 
 <br>
 
