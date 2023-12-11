@@ -120,7 +120,7 @@ Speakers:
 
 <br><br>
 
-- Title: Making adaptive designs more accessible. A practical adaptive designs toolkit. **Munya Dimairo**
+- Title: **Making adaptive designs more accessible. A practical adaptive designs toolkit. **Munya Dimairo
 
 
 <table cellspacing="0" cellpadding="0">
