@@ -29,7 +29,7 @@ h1.title {
 
 <!-- Dr. **Emily Johnson** is a renowned statistician and expert in adaptive designs for clinical trials. She received her Ph.D. in Biostatistics from XYZ University and has over 15 years of experience in the field. Dr. Johnson has published numerous articles on adaptive trial designs and has been invited to speak at various international conferences. Her research focuses on developing innovative statistical methods for improving the efficiency and ethical aspects of clinical trials. -->
 
-**Title:** Deconstructing the Max-combo Test
+Title: **Deconstructing the Max-combo Test**
 
 
 
@@ -58,9 +58,31 @@ Title: **Methodological and practical outcomes from the Adaptive Designs Working
 
 Speakers:
 
-- Faye Williamson (Newcastle University)
-- David Robertson (MRC Biostatistics Unit, University of Cambridge)
-- Munya Dimairo (University of Sheffield)
+<table cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <th><img src="images/faye_williamson.jpg" alt="faye_williamson" width="200"></th>
+    <th><img src="images/david-robertson.jpg" alt="david-robertson" width="200"></th>
+    <th><img src="images/munya_dimairo.jpg" alt="munya_dimairo" width="200"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><b>Faye Williamson</b></td>
+    <td align="center"><b>David Robertson</b></td>
+    <td align="center"><b>Munya Dimairo</b></td>
+  </tr>
+  <tr>
+    <td align="center">Newcastle University</td>
+    <td align="center">University of Cambridge</td>
+    <td align="center">University of Sheffield</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- - Faye Williamson (Newcastle University) -->
+<!-- - David Robertson (MRC Biostatistics Unit, University of Cambridge) -->
+<!-- - Munya Dimairo (University of Sheffield) -->
 
 <br><br><br>
 
