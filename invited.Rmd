@@ -55,10 +55,14 @@ References
 
 
 ### Keynote speaker: **Annette Kopp-Schneider (German Cancer Research Center)**
-
 <hr>
 
-Title and abstract to be announced
+<div align="center">
+![](images/Annette_Kopp.jpg){width=25%}
+
+
+
+**Title and abstract to be announced**
 
 
 &nbsp;
