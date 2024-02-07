@@ -81,6 +81,10 @@ slickR::slickR(
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 
 <br>
+![](images/icons/exclamation.png){width=25px} 
+&nbsp; The deadline for <b><font color="#ff0000">abstract submission has been extended </font></b> to next <b>Monday, February 12</b>. 
+
+<br>
 ![](images/icons/money-check-dollar-solid.svg){width=25px} 
 &nbsp; To avoid paying a higher price for your accommodation, we highly recommend booking your stay <b>as soon as possible</b>. 
 

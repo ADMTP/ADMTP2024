@@ -27,7 +27,7 @@ h1.title {
 
 The organization invites abstracts for contributed oral presentations for
 the 2024 Adaptive Designs and Multiple Testing Procedures. 
-Abstracts may be submitted online until **2 February 2024** using this [**form**](https://www.conftool.org/admtp-workshop-2024)
+Abstracts may be submitted online until <b><font color="#ff0000">12 February 2024</font></b> using this [**form**](https://www.conftool.org/admtp-workshop-2024)
 
 <br><br>
 
