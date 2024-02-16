@@ -67,8 +67,19 @@ References
 <h3>**Borrowing from external information in clinical trials: methods, benefits and limitations**</h3>
 
 
+When trials can only be performed with small sample sizes as, for example, in the situation of precision medicine where patients cohorts are defined by a specific combination of biomarker and targeted therapy, borrowing information from historical data is currently discussed as an approach to improve the efficiency of the trial. In this context, borrowing information is often also referred to as evidence synthesis or extrapolation, where external data could be historical data or another source of co-data.
+A number of approaches for borrowing from external data that dynamically discount the amount of information transferred from external data based on the discrepancy between the external and current data have been proposed. We will present two selected approaches. The robust mixture prior (Schmidli et al, 2014) is a popular method. It is a weighted mixture of an informative and a robust prior, equivalent to a meta-analytic-combined analysis of historical and new data, assuming that parameters are exchangeable across trials. The power prior approach incorporates external data in the prior used for analysis of the current data. This prior is proportional to the likelihood of the external data raised to the power of a weight parameter. An Empirical Bayes approach for the estimation of the weight parameter from the similarity of external and current data has been proposed by Gravestock et al. (2017).
 
-Abstract to be announced
+We will discuss the frequentist operating characteristics (FOC) of trials using these two adaptive borrowing approaches, evaluating type I error rate and power as well as Mean Squared Error. Use of the robust mixture prior requires the selection of the mixture weight, the mean and the variance of the robust component and we will discuss the impact of the selection on FOC. The concept of prior effective sample size facilitates quantification and communication of prior information by equating it to a sample size. When prior information arises from historical observations, the traditional approach identifies the ESS with a historical sample size, a measure that is independent of the current observed data, and thus does not capture an actual loss of information induced by the prior in case of prior-data conflict. The effective current sample size of a prior (Wiesenfarth and Calderazzo 2020) is introduced which relates prior impact to the number of (virtual) samples from the current data model. All aspects that will be discussed show that in the frequentist perspective borrowing cannot be beneficial for any possible true parameter value. However, benefits can be obtained if prior information is reliable and consistent.
+
+References
+
+- Gravestock I, Held L (2017). Adaptive power priors with empirical Bayes for clinical trials. Pharmaceutical Statistics 16:349-360.
+
+- Schmidli, H., Gsteiger, S., Roychoudhury, S., O'Hagan, A., Spiegelhalter, D., Neuenschwander, B. (2014). Robust meta‐analytic‐predictive priors in clinical trials with historical control information. Biometrics, 70(4), 1023-1032.
+
+- Wiesenfarth M, Calderazzo S (2020). Quantification of prior impact in terms of effective current sample size. Biometrics 76(1), 326-336.
+
 
 
 &nbsp;
