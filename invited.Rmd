@@ -128,7 +128,7 @@ References
   
   <tr>
     <td align="center" width="275"><img src="images/nina_wilson.jpg" alt="nina_williamson" width="125"></td>
-    <td><i><h4> Exploring current practices in adaptive trials: patient information sheets, costing, and efficiently conducting interim analyses</h4></i><br><b>Faye Williamson</b> (Newcastle University)</td>
+    <td><i><h4> Exploring current practices in adaptive trials: patient information sheets, costing, and efficiently conducting interim analyses</h4></i><br><b>Nina Wilson</b> (Newcastle University)</td>
   </tr>
   
   <tr>
