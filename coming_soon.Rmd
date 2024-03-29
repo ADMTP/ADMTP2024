@@ -19,4 +19,4 @@ h1.title {
 }
 </style>
 
-![](coming_soon3.gif){width=100%}
+![](images/coming_soon3.gif){width=100%}

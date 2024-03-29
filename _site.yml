@@ -32,7 +32,14 @@ navbar:
       - text: "Registration"
         href: registration.html 
       - text: "Abstract submission"
-        href: abstract.html 
+        href: abstract.html
+    - text: "Eivissa"
+      menu:
+      - text: "Archeological Museum"
+        href: arch_museum.html
+      - text: "Tour"
+        href: coming_soon.html         
+            
     #- text: "Presentations"
     #  href: presentations.html
 output:
