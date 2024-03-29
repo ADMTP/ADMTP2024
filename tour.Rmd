@@ -1,0 +1,27 @@
+---
+title: "Guided Tour"
+output: html_document
+---
+
+<!-- <style type="text/css"> -->
+<!-- body { -->
+<!--  background-image: url("coming_soon.jpg"); -->
+<!--  background-position: center top; -->
+<!--  background-size: 100% auto; -->
+<!-- } -->
+<!-- </style>  -->
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
+You are welcome to take part in a **free guided tour of Ibiza's old town**. Further information to
+come.
+
+<br>
+
+![](images/coming_soon3.gif){width=100%}

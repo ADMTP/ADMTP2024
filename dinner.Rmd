@@ -1,0 +1,36 @@
+---
+title: "Workshop dinner"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
+<!-- ## Workshop dinner -->
+
+<hr>
+
+
+The workshop dinner can be attended on **Thursday 25th April**. Payment is the responsibility
+of the participant. 
+
+The dinner will be held at [Club Nàutic](https://www.clubnauticoibiza.com/). The Nautical Club, the second oldest in the Illes Balears after the one in Ciutadella (Menorca), was founded on February 27, 1925 by a group of enthusiastic sea fans led by Don Francisco Costa Torres, the first president of the club.
+
+<br>
+
+```{r echo=FALSE}
+objpath3 <- file.path(getwd(),"images/club_nautic")
+slickR::slickR(
+    list.files(objpath3,full.names = TRUE,pattern = 'jpg'),
+    height = 350,
+    width = '95%')
+```
+
+

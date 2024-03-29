@@ -85,6 +85,7 @@ slickR::slickR(
 <!-- &nbsp; <b><font color="#ff0000">The deadline for registration</font></b> has been extended to <b>15 March</b>.  -->
 
 <br>
+
 ![](images/icons/money-check-dollar-solid.svg){width=25px} 
 &nbsp; To avoid paying a higher price for your accommodation, we highly recommend booking your stay <b>as soon as possible</b>. 
 
@@ -107,7 +108,7 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **When:** The workshop will run from 25th April, 2024 (opening at 9 am) until 26th April, 2024 (closing at 6 pm).
 
-<!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project. -->
+**Invited Speakers**: We are delighted to announce that **Dr. Dominic Magirr** (Novartis Pharma AG) and **Dr. Annette Kopp-Schneider** (German Cancer Research Center) will present as invited speakers. The workshop will also feature two invited sessions on *Methodological and practical outcomes from the Adaptive Designs* and on *Practical experiences of using software to design clinical trials using simulations*
 
 
 **Registration:** Registration closed on 15 March 2024. 

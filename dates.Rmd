@@ -37,11 +37,13 @@ Registration for the conference is now open. Please visit the [Registration](reg
 
 <hr>
 
-Abstracts for presentations can be submitted until the deadline of February 12, 2024. Authors will be notified of the acceptance of their abstracts by February 23, 2024.
+Abstracts submission is closed.
 
-For detailed guidelines on abstract submission and to submit your abstract, please visit the [Abstract Submission](abstract.html) page.
+<!-- for presentations can be submitted until the deadline of February 12, 2024. Authors will be notified of the acceptance of their abstracts by February 23, 2024. -->
 
-We look forward to receiving your submissions and sharing your research during the conference!
+<!-- For detailed guidelines on abstract submission and to submit your abstract, please visit the [Abstract Submission](abstract.html) page. -->
+
+<!-- We look forward to receiving your submissions and sharing your research during the conference! -->
 
 
 
