@@ -19,9 +19,14 @@ h1.title {
 }
 </style>
 
-You are welcome to take part in a **free guided tour of Ibiza's old town**. Further information to
-come.
+You are welcome to take part in a **free guided tour of Ibiza's old town**. The visit is exponsorized by the City Hall of Ibiza town.
 
 <br>
 
-![](images/coming_soon3.gif){width=100%}
+# DALT VILA (OLD TOWN)
+
+Discover the world heritage of Ibiza in a guided walking tour! This excursion will include a visit to the interior of the walled city (Dalt Vila) in which the greatest part of the histo and artistic heritage of the city is concentrated and which has been declared in 1999 World Heritage by UNESCO. Running along the quayside in the town of Eivissa, as Ibiza is called in Catalan, is the area known as Sa Penya (the crag or cliff).
+At the top of Carrer Major is the cathedral, on the site of religious structures from each of the cultures that have ruled Eivissa since the Phoenicians.
+The old city is surrounded by a wall built in the 16th century and on the descending route we come across the "Real Curia" with its Gothic door. In the street of "Sant Ciriac" we can see the chapel founded in honor of this saint who resisted in 1235 the troops of James I. Soon, on the "Paseo de Sa Carrossa" we come across the statue of Isidor Macabich the illustrious poet , and further on, the church of Santo Domingo, part of an old Dominican convent constructed between the XVI and XVII centuries. The other part, reached by the "Plaça d'Espanya", is actually occupied by the Town Hall of the city. Immediately we come to the "Plaça de Vila", a pretty place in which commercial and handicraft can be found.
+
+<!-- ![](images/coming_soon3.gif){width=100%} -->

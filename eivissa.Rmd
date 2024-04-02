@@ -1,5 +1,5 @@
 ---
-title: "Eivissa"
+title: "About Ibiza"
 output:
   html_document:
     theme: cosmo
@@ -13,11 +13,11 @@ h1.title {
 }
 </style>
 
-## Eivissa
+## About Ibiza
 
 <hr>
 
-**Eivissa** is an island where ancient charm meets modern allure. Explore pristine beaches, vibrant nightlife, and UNESCO World Heritage Sites. Immerse yourself in the rich culture, savor Mediterranean cuisine, and indulge in unforgettable experiences.
+**Ibiza** (**Eivissa** in catalan) is an island where ancient charm meets modern allure. Explore nature, unspoilt beaches and UNESCO World Heritage sites. Immerse yourself in the rich culture, savour the Mediterranean cuisine and indulge in unforgettable experiences.
 
 Below, you can find some of the most emblematic places to visit
 
