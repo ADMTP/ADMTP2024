@@ -35,7 +35,7 @@ navbar:
         href: abstract.html
     - text: "Social Events"
       menu:
-      - text: "Eivissa"
+      - text: "Ibiza"
         href: eivissa.html
       - text: "Workshop Dinner"
         href: dinner.html
