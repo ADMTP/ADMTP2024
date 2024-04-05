@@ -29,9 +29,17 @@ Below, you can find some of the most emblematic places to visit.
 
 
 [**Puig des Molins**](https://www.illesbalears.travel/en/ibiza/necropolis-puig-des-molins) is a small hill located on the south-west side of the bay of Ibiza.  This place was chosen by the founders of the city of Ibiza, the Phoenicians, in the 7th century BC, and along all the Antiquity, to bury their dead. Nearly 5 preserved hectares, it is the largest and most well-preserved Phoenician-Punic necropolis in the western Mediterranean basin. You can visit the site and the [**Monographic Museum Puig des Molins**](images/carousel_arch_museum/museum.pdf) (free entrance!) to enjoy thousands of extraordinary and beautiful objects discovered in the tombs.
-<!-- https://maef.eu/en/ -->
 
 In 1999, it was declared by UNESCO as a World Heritage Site, among other elements in Ibiza such as the 16th century walls of Dalt Vila and the Phoenician site of Sa Caleta.
+
+[Virtual tour necropolis of Puig des Molins](https://maef.eu/en/tour-virtual-hipogeos-de-la-mula/) 
+
+[Virtual tour Monographic Museum Puig des Molins](https://maef.eu/en/tour-virtual-museo-monografico-puig-des-molins/)
+
+- **Postal address**: Vía Romana, 31, Ibiza. 
+- **Phone number**: 971 17 60 90
+- **Information**: [comunicacio@maef.eu](mailto:comunicacio@maef.eu)
+- **Web**: [www.maef.eu/en](https://maef.eu/en/)
 
 <br>
 
@@ -42,5 +50,8 @@ slickR::slickR(
     height = 350,
     width = '95%')
 ```
+
+
+
 
 
