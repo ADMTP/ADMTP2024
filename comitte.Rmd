@@ -25,7 +25,7 @@ h1.title {
 <!-- - Dr. Andrew Clark -->
 <!-- - Dr. Jessica Robinson -->
 
-## Scientific Committee (SPC)
+## Scientific Committee  
 
 <hr>
 
@@ -39,7 +39,7 @@ h1.title {
 &nbsp;
 
 
-## Organizing Committee (LOC)
+## Organizing Committee 
 
 <hr>
 
@@ -50,6 +50,15 @@ h1.title {
 - Arnau Mir Torres (Universitat de les Illes Balears)
 
 &nbsp;
+
+## Support team
+
+- Teresa Engelbrecht (Medical University of Vienna)
+- Leire Garmendia Bergés (BCAM)
+- Pavla Krotka (Medical University of Vienna)
+
+&nbsp;
+
 
 ## Welcome Letter
 
