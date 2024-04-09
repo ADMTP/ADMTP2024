@@ -153,6 +153,11 @@ $$\\[0.1cm]$$
         <img src="logos/logo_GRBIO2.png" alt="GRBIO" width="150">
         </a>
     </div>
+    <div class="sponsor">
+        <a href="https://www.novartis.com/"; target=_blank">
+        <img src="logos/Novartis Logo RGB.jpg" alt="Novartis" width="250">
+        </a>
+    </div>
 </div>
 ```
 
