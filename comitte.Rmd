@@ -53,8 +53,10 @@ h1.title {
 
 ## Support team
 
+<hr>
+
 - Teresa Engelbrecht (Medical University of Vienna)
-- Leire Garmendia Bergés (BCAM)
+- Leire Garmendia Bergés (Basque Center for Applied Mathematics)
 - Pavla Krotka (Medical University of Vienna)
 
 &nbsp;
