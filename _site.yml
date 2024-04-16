@@ -40,7 +40,9 @@ navbar:
       - text: "Workshop Dinner"
         href: dinner.html
       - text: "Guided Tour"
-        href: tour.html             
+        href: tour.html
+    - text: "Key information"
+      href: key_information.pdf        
             
     #- text: "Presentations"
     #  href: presentations.html
