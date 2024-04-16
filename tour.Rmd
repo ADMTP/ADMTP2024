@@ -29,4 +29,10 @@ Discover the world heritage of Ibiza in a guided walking tour! This excursion wi
 At the top of Carrer Major is the cathedral, on the site of religious structures from each of the cultures that have ruled Eivissa since the Phoenicians.
 The old city is surrounded by a wall built in the 16th century and on the descending route we come across the "Real Curia" with its Gothic door. In the street of "Sant Ciriac" we can see the chapel founded in honor of this saint who resisted in 1235 the troops of James I. Soon, on the "Paseo de Sa Carrossa" we come across the statue of Isidor Macabich the illustrious poet , and further on, the church of Santo Domingo, part of an old Dominican convent constructed between the XVI and XVII centuries. The other part, reached by the "Plaça d'Espanya", is actually occupied by the Town Hall of the city. Immediately we come to the "Plaça de Vila", a pretty place in which commercial and handicraft can be found.
 
+
+
+![](logos/LogoAEivissa.png){width=25%}
+![](logos/25patrimoni.PNG){width=30%}
+<!-- ![](BSS_logo.PNG) -->
+
 <!-- ![](images/coming_soon3.gif){width=100%} -->
