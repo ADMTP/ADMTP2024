@@ -16,7 +16,7 @@ navbar:
       # - text: "Schedule at glance"
       #   href: program.html
     - text: "Book of Abstracts"
-      href: Draft_2024BookAbstracts.pdf
+      href: Final_2024BookAbstracts.pdf
     - text: "Invited sessions"
       href: invited.html
     #- text: "Workshop booklet"
