@@ -88,7 +88,7 @@ slickR::slickR(
 
 <br>
 ![](images/icons/camera-solid.svg){width=25px}
-&nbsp; Experience the highlights and memories captured at our conference through our exclusive [photo gallery](https://admtp.github.io/ADMTP2024/) — immerse yourself in the moments that made our event unforgettable!  
+&nbsp; Experience the highlights and memories captured at our conference through our exclusive [photo gallery](https://admtp.github.io/ADMTP2024/gallery.html) — immerse yourself in the moments that made our event unforgettable!  
 
 <br>
 
