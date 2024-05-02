@@ -61,10 +61,6 @@ h1.title {
 </head>
 ```
 
-```{r figurename, echo=FALSE, fig.cap="Eivissa Port", out.width = '60%', fig.align='center'}
-# knitr::include_graphics("Eivissa_1.jpg")
-```
-
 ```{r echo=FALSE}
 # https://stackoverflow.com/questions/61313078/create-a-carousel-in-rmarkdown
 objpath <- file.path(getwd(),"images/carousel_home")
@@ -80,29 +76,25 @@ slickR::slickR(
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 
-<!-- <br> -->
-<!-- ![](images/icons/exclamation.png){width=25px}  -->
-<!-- &nbsp; <b><font color="#ff0000">The deadline for registration</font></b> has been extended to <b>15 March</b>.  -->
+
+<br>
+![](images/icons/thanks-removebg.png){width=25px}
+&nbsp; A heartfelt thank you to all the participants whose enthusiasm, expertise, and engagement made our conference ADMTP-2024 a resounding success!
+
+
+<br>
+![](images/icons/twitter.svg){width=25px} 
+&nbsp; Stay in the loop with the latest insights and updates from our conference following us on X/Twitter: [https://twitter.com/ADMTP_IBS](https://twitter.com/ADMTP_IBS). 
+
+<br>
+![](images/icons/camera-solid.svg){width=25px}
+&nbsp; Experience the highlights and memories captured at our conference through our exclusive [photo gallery](https://admtp.github.io/ADMTP2024/) — immerse yourself in the moments that made our event unforgettable!  
 
 <br>
 
-![](images/icons/money-check-dollar-solid.svg){width=25px} 
-&nbsp; To avoid paying a higher price for your accommodation, we highly recommend booking your stay <b>as soon as possible</b>. 
-
-<br>
-![](images/icons/calendar-days-solid.svg){width=25px}
-&nbsp; You can still book your room at the <a href="https://admtp.github.io/ADMTP2024/venue.html"><b>venue hotel</b></a>, and 
-note that you will receive a <b>discount</b> when you register.  
-
-<br>
-![](images/icons/plane-solid.svg){width=25px}
-&nbsp; Moreover, there are <b>direct flights</b> available from various central cities such as Vienna, Basel, 
-Berlin, Frankfurt, and London to Ibiza on the dates of the event.
 </div>
 
-<br>
-
-We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Universitat de les Illes Balears.
+We are delighted to announce the annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Universitat de les Illes Balears.
 
 **Where:** Ibiza, Spain. The workshop will be a face-to-face event, with no option to participate virtually.
 

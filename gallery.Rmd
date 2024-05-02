@@ -1,0 +1,28 @@
+---
+title: "Photo Gallery"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+  
+<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->  
+  
+```{r}
+#| echo: false
+
+path     <- "images/conference/"
+pictures <- list.files(path)
+paths    <- paste0(path,pictures)
+
+library(pixture)
+pixgallery(paths)
+```
+

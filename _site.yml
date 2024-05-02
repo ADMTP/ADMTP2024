@@ -42,7 +42,9 @@ navbar:
       - text: "Guided Tour"
         href: tour.html
     - text: "Key information"
-      href: key_information.pdf        
+      href: key_information.pdf
+    - text: "Photo gallery"
+      href: gallery.html      
             
     #- text: "Presentations"
     #  href: presentations.html
