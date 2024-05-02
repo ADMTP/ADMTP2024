@@ -19,7 +19,8 @@ h1.title {
 #| echo: false
 
 path     <- "images/conference/"
-pictures <- list.files(path)
+pictures_0 <- list.files(path)
+pictures <- pictures_0[grepl("jpg",pictures_0)]
 paths    <- paste0(path,pictures)
 
 library(pixture)
