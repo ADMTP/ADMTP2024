@@ -1,8 +1,9 @@
 name: "ADMTP 2024"
 output_dir: "."
+
 navbar:
   title: "ADMTP 2024"
-  # logo: "logos/admtp2024_web.png"
+  logo: "logos/admtp2024_web.png"
   left:
     - text: "Home"
       href: index.html
@@ -12,24 +13,16 @@ navbar:
         href: comitte.html
       - text: "Statement on Proper Conduct"
         href: proper_conduct.html 
-    # - text: "Program"
-      # menu:
-      # - text: "Schedule at glance"
-      #   href: program.html
     - text: "Book of Abstracts"
       href: Final_2024BookAbstracts.pdf
     - text: "Invited sessions"
       href: invited.html
-    #- text: "Workshop booklet"
-     # href: ADMTP_Basel2023_Booklet.pdf
     - text: "Conference info"
       menu:
       - text: "Venue"
         href: venue.html 
       - text: "Conference deadlines"
         href: dates.html 
-      #- text: "Hotel information"
-      #  href: hotels.html
       - text: "Registration"
         href: registration.html 
       - text: "Abstract submission"
@@ -46,9 +39,6 @@ navbar:
       href: key_information.pdf
     - text: "Photo gallery"
       href: gallery.html      
-            
-    #- text: "Presentations"
-    #  href: presentations.html
 output:
   html_document:
     theme: cosmo

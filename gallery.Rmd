@@ -13,7 +13,9 @@ h1.title {
 }
 </style>
   
-<!-- # Adaptive Designs and Multiple Testing Procedures Workshop -->  
+<br>
+<!-- You can download all the pictures here: [pictures part 1](images/conference/photos_admtp_2024_part_1.zip) ans [pictures part 2](images/conference/photos_admtp_2024_part_2.zip) -->
+<!-- <br> -->
   
 ```{r}
 #| echo: false

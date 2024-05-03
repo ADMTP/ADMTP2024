@@ -95,9 +95,9 @@ slickR::slickR(
 ![](images/icons/camera-solid.svg){width=25px}
 &nbsp; Experience the highlights and memories captured at our conference through our exclusive [photo gallery](https://admtp.github.io/ADMTP2024/gallery.html) — immerse yourself in the moments that made our event unforgettable!  
 
-<br>
-
 </div>
+
+<br>
 
 We are delighted to announce the annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Universitat de les Illes Balears.
 
